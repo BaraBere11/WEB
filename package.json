@@ -1,7 +1,6 @@
 {
   "name": "w2",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaraBere11/WEB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BaraBere11/WEB/issues"
+  },
+  "homepage": "https://github.com/BaraBere11/WEB#readme",
+  "description": ""
 }
